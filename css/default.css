@@ -6930,8 +6930,10 @@ Custom CSS
   .pricing-list li {
     font-weight: normal;
     margin-bottom: 1rem; 
-    font-size: 12px;
-    line-height: 1;}
+    font-size: 14px;
+    line-height: 1;
+    text-align: left;
+    padding-left: 2rem; }
 
 /*footer*/
 footer ul > li {
